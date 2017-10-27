@@ -1,2 +1,2 @@
 # appcccuy
-Mobile App CCcuy
+Mobile App CCcUY
