@@ -1,12 +1,12 @@
 {
-  "name": "whatsapp",
+  "name": "CccUyApp",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "CccUy",
+  "homepage": "http://www.cerveceroscaseros.com.uy/site/",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/Urigo/Ionic2CLI-Meteor-WhatsApp.git"
+    "url": "https://github.com/AgustinGit/appcccuy.git"
   },
   "scripts": {
     "api": "cd api && export ROOT_URL=http://meteor.linuxsystems.it && meteor run --settings private/settings.json",
@@ -85,7 +85,7 @@
     "typescript": "^2.4.2",
     "typescript-extends": "^1.0.1"
   },
-  "description": "whatsapp: An Ionic project",
+  "description": "App del club de cerveceros caseros del Uruguay",
   "config": {
     "ionic_webpack": "./webpack.config.js"
   },
